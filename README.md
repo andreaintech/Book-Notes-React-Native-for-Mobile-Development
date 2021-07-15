@@ -79,3 +79,11 @@ However, in real-world applications, problems arise when you have a fairly compl
 ![image](https://user-images.githubusercontent.com/20091777/125840047-862be27e-540d-4021-8fce-7a2be8d5aaa9.png)
 
 _Figure 1-4. Unwanted spaghetti relationship_
+
+React follows one-way data flow to keep things simple.
+
+![image](https://user-images.githubusercontent.com/20091777/125840370-778e35ed-79ff-4549-8f87-f526bef13d9c.png)
+
+_Figure 1-5. React Native’s one-way data flow_
+
+**It is based on the concept of separation of concerns (SoC).** This is a design principle in computer science in which an application or program is divided into distinct sections, each addressing a single or specific concern. The value of this design principle is that it simplifies development to create a maintainable and scalable application. **This leads to modularized code where an individual section can be reused, developed, and modified independently. This makes so much sense and is indeed an example of intelligent thinking.**
