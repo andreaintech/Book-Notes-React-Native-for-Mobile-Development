@@ -1,1 +1,1 @@
-# Book-Notes-React-Native-for-Mobile-Development
+# Book Notes React Native for Mobile Development
