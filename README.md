@@ -31,4 +31,4 @@ _______________________
 
 • One-way data flow: Two-way data binding is a great idea, but in real- world applications it produces more pain than benefit. One of the common drawbacks with two-way data binding is that you have no idea how your data get updated. With one-way data flow, things are simple: You know exactly where data are mutating, which makes it easier to maintain and test your app. 
 
-_To have a strong foundation with a new technology, it’s necessary to understand its core concepts. The next section explores a few unique concepts of React, which will bring you one step closer to understanding this amazing technology._
+_To have a strong foundation with a new technology, it’s necessary to understand its core concepts._
