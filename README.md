@@ -62,3 +62,11 @@ This feature of VDOM is not just important, but a killer feature of React. DOM a
 To make your application fast, you should access the DOM as little as possible, and this is beautifully handled by the implementation of VDOM. You won’t notice this with a small and trivial application, but once your app grows to include thousands of DOM elements all trying to get updated, **React will not let your performance suffer.**
 _______________________
 **One-Way Data Flow**
+
+React is primarily the V in an MVC pattern, but before you dive into the idea of one-way data flow in React, you must understand the challenges of MVC frameworks. One of the biggest challenges of an MVC framework is managing the view. As you know, the view component of the MVC framework is mainly the DOM representation. It is simple when you write code that interacts with the DOM, but it is very complicated for the framework to handle various DOM manipulations.
+
+Traditional MVC views generally encompass a lot of heavy UI, and as the data change even for a tiny element, it eventually rerenders the app again, and the cycle 
+continues. The reason for this is that typically most of these MVC frameworks follow two-way data binding.
+
+![image](https://user-images.githubusercontent.com/20091777/125839676-f523dcf5-acbe-440d-92e8-0a70062de4f6.png)
+_Figure 1-3. Two-way data binding_
