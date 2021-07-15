@@ -57,3 +57,4 @@ In React, every component has a state; this state is likely observable. Whenever
 ![image](https://user-images.githubusercontent.com/20091777/125730183-5d9b2ef9-cbfc-48bf-90e2-2468067ef17c.png)
 _Figure 1-2. Components with virtual VDOM_
 
+This feature of VDOM is not just important, but a killer feature of React. DOM access is super slow, and honestly speaking, the world has made it worse by hitting the DOM again and again in most applications. To make your application fast, you should access the DOM as little as possible, and this is beautifully handled by the implementation of VDOM. You won’t notice this with a small and trivial application, but once your app grows to include thousands of DOM elements all trying to get updated, React will not let your performance suffer.
