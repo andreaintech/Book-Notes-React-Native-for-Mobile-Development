@@ -42,3 +42,6 @@ In all web applications one of the most expensive operations from which an app s
 Along with a diffing algorithm, React is able to compute the data against the actual DOM and only update the part of the DOM that is changed. 
 
 The amount of change is therefore less, which leads to a blazing fast application. In the beginning of your application you might not see it, but as your project balloons to greater complexity (which usually happens in real-world apps), you will begin to see the benefits of a snappy experience for users.
+
+![image](https://user-images.githubusercontent.com/20091777/125729611-b5fae65a-dcf7-4650-951e-de42a9757fd3.png)
+_Figure 1-1. Virtual DOM and diffing algorithm operations_
