@@ -6,7 +6,7 @@ Authors:
 - [Akshat Paul](https://www.akshatpaul.com/)
 - [Abhishek Nalwaya](http://nalwaya.com/)
 
-# Chapter #1 :books:
+# Chapter #1 - Learning the Basics: a Whistle-stop tour of React :books:
 
 **According to the official documentation, React is a JavaScript (JS) library (not framework) for creating user interfaces (UIs).** 
 
