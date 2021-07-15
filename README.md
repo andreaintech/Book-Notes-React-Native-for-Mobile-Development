@@ -1,6 +1,6 @@
 # Book Notes React Native for Mobile Development :books:
 
-This are my taking notes of Book: React Native for Mobile Development - Harness the Power of React Native to Create Stunning iOS and Android Applications.
+This are my taking notes of Book: [React Native for Mobile Development - Harness the Power of React Native to Create Stunning iOS and Android Applications](https://www.amazon.com/-/es/Akshat-Paul/dp/1484244532).
 Authors:
 - [Akshat Paul](https://www.akshatpaul.com/)
 - [Abhishek Nalwaya](http://nalwaya.com/)
