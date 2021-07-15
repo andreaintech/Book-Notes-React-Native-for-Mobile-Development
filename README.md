@@ -32,3 +32,12 @@ _______________________
 • One-way data flow: Two-way data binding is a great idea, but in real- world applications it produces more pain than benefit. One of the common drawbacks with two-way data binding is that you have no idea how your data get updated. With one-way data flow, things are simple: You know exactly where data are mutating, which makes it easier to maintain and test your app. 
 
 _To have a strong foundation with a new technology, it’s necessary to understand its core concepts._
+
+_______________________
+**Virtual DOM**
+
+In all web applications one of the most expensive operations from which an app suffers is mutating the DOM. To solve this problem, React maintains a virtual representation of the DOM (as shown in Figure 1-1), which is called Virtual DOM (VDOM). 
+
+Along with a diffing algorithm, React is able to compute the data against the actual DOM and only update the part of the DOM that is changed. 
+
+The amount of change is therefore less, which leads to a blazing fast application. In the beginning of your application you might not see it, but as your project balloons to greater complexity (which usually happens in real-world apps), you will begin to see the benefits of a snappy experience for users.
