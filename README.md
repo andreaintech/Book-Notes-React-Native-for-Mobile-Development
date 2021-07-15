@@ -45,3 +45,10 @@ The amount of change is therefore less, which leads to a blazing fast applicatio
 
 ![image](https://user-images.githubusercontent.com/20091777/125729611-b5fae65a-dcf7-4650-951e-de42a9757fd3.png)
 _Figure 1-1. Virtual DOM and diffing algorithm operations_
+
+Manual DOM manipulation is messy, and keeping track of the previous state of the DOM is very hard. As shown in Figure 1-1, React solves this problem by keeping 
+two copies of a VDOM. Next, a diffing algorithm is applied on these two VDOMs, which essentially checks for the changes that occurred and returns a stream of DOM 
+operations. These DOM operations are then applied to the actual browser DOM.
+
+How a VDOM works. In React, every component has a state; this state is likely observable. Whenever there is a change in state, React essentially knows that this change requires a rerender. When the application state changes, it generates a new VTree; once again the diffing algorithm shares the DOM paths for required changes, as shown in Figure 1-2. 
+**This results in keeping manual DOM manipulation to a minimum**
