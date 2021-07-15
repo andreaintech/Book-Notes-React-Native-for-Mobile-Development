@@ -70,3 +70,11 @@ continues. The reason for this is that typically most of these MVC frameworks fo
 
 ![image](https://user-images.githubusercontent.com/20091777/125839676-f523dcf5-acbe-440d-92e8-0a70062de4f6.png)
 _Figure 1-3. Two-way data binding_
+
+In JavaScript, data change in memory and they are bound to a view in the UI, which means that when data are modified in JavaScript, which is in memory, the data will be changed in the UI as well. In return, when data change in the UI (i.e., the DOM) by clicking a button or any other event, they get updated in memory also, keeping 
+the two in sync.
+
+However, in real-world applications, problems arise when you have a fairly complex and large application with multiple views representing data in one of your models.  As you add more models and more views, this two-way data binding ends up as spaghetti with every change in data added to the pot, which sometimes even ends up in an infinite event loop where one view updates a model, which in turn updates a view, and so on.
+
+![image](https://user-images.githubusercontent.com/20091777/125840047-862be27e-540d-4021-8fce-7a2be8d5aaa9.png)
+_Figure 1-4. Unwanted spaghetti relationship_
