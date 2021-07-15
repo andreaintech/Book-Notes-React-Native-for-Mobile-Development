@@ -19,3 +19,16 @@ _______________________
 **React came into existence because its creators were faced with a significant problem:**
 
 how to build large applications in which data change frequently. This problem occurs in almost any real-world application and React was created from the ground up to solve it.
+
+_______________________
+**The following are some of the advantages of choosing React for your next project:**
+
+• React uses JavaScript extensively: Traditionally the views in HTML are separated from the functionality in JavaScript. With React, components are created and there is one monolithic section where JavaScript has intimate knowledge of your HTML.
+
+• Extendable and maintainable: Components are formed by a unified markup with its view logic, which actually makes the UI easy to extend and maintain.
+
+• Virtual DOM: React applications are blazing fast. The credit for this goes to the virtual DOM and its diffing algorithm.
+
+• One-way data flow: Two-way data binding is a great idea, but in real- world applications it produces more pain than benefit. One of the common drawbacks with two-way data binding is that you have no idea how your data get updated. With one-way data flow, things are simple: You know exactly where data are mutating, which makes it easier to maintain and test your app. 
+
+_To have a strong foundation with a new technology, it’s necessary to understand its core concepts. The next section explores a few unique concepts of React, which will bring you one step closer to understanding this amazing technology._
