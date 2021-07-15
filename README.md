@@ -50,5 +50,6 @@ Manual DOM manipulation is messy, and keeping track of the previous state of the
 two copies of a VDOM. Next, a diffing algorithm is applied on these two VDOMs, which essentially checks for the changes that occurred and returns a stream of DOM 
 operations. These DOM operations are then applied to the actual browser DOM.
 
-How a VDOM works. In React, every component has a state; this state is likely observable. Whenever there is a change in state, React essentially knows that this change requires a rerender. When the application state changes, it generates a new VTree; once again the diffing algorithm shares the DOM paths for required changes, as shown in Figure 1-2. 
+**How a VDOM works:**
+In React, every component has a state; this state is likely observable. Whenever there is a change in state, React essentially knows that this change requires a rerender. When the application state changes, it generates a new VTree; once again the diffing algorithm shares the DOM paths for required changes, as shown in Figure 1-2. 
 **This results in keeping manual DOM manipulation to a minimum**
