@@ -53,3 +53,7 @@ operations. These DOM operations are then applied to the actual browser DOM.
 **How a VDOM works:**
 In React, every component has a state; this state is likely observable. Whenever there is a change in state, React essentially knows that this change requires a rerender. When the application state changes, it generates a new VTree; once again the diffing algorithm shares the DOM paths for required changes, as shown in Figure 1-2. 
 **This results in keeping manual DOM manipulation to a minimum**
+
+![image](https://user-images.githubusercontent.com/20091777/125730183-5d9b2ef9-cbfc-48bf-90e2-2468067ef17c.png)
+_Figure 1-2. Components with virtual VDOM_
+
