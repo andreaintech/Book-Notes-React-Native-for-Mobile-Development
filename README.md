@@ -182,3 +182,5 @@ In the last section, you learned about properties, which are static values that 
 State, on the other hand, is maintained and updated by the component. State is used so that a component can keep track of information in between any renders that it does. When you setState it updates the state object and then rerenders the component. 
 
 **We can think of props variables used for component initialization, whereas state is like internal data that affects the rendering of components and is considered private data.**
+
+![react-code](https://user-images.githubusercontent.com/20091777/126715798-b9654288-f6f8-4310-a629-a34ded7da2c9.png)
