@@ -152,3 +152,6 @@ A library like jQuery is a good example of this. As your files grow, it becomes 
 
 Display logic often is quite complex and to express it using template languages does become difficult. The best way to solve this problem is to generate HTML 
 and components from JavaScript itself. React JSX solves these problems with its HTML- type syntax by creating React tree nodes.
+
+Going back to the preceding code snippet, App is a JavaScript class that is inherited from the React Component class API. Components can be created in two ways: one 
+using class and the other using function. **Components created using function are also called stateless components.**
