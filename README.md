@@ -143,3 +143,5 @@ These components define how DOM elements are created and how users can interact 
 
 This is the main App component. As you can see, it’s just a JavaScript file that contains some HTML code. If you have been building software for some time, you know 
 it is a best practice to keep your HTML and JavaScript code separate. Looking at this example, it goes against this fundamental best practice.
+
+The reason this best practice exists is to decrease coupling and increase cohesion, which means we write the UI in HTML and logic in JavaScript. The challenge with this approach is that we can only attach behavior to HTML through HTML elements (like ID, class, etc.). 
