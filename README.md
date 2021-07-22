@@ -91,3 +91,9 @@ _Figure 1-5. React Native’s one-way data flow_
 _______________________
 **Installation and Setup**
 
+React is just a node module, there are lot of different ways to set up a React project.
+We can include React in existing projects using npm or yarn and start using it. If you are starting a new project, we recommend using the create-react-app npm package.
+
+**create-react-app** is an out-of-the-box command-line interface (CLI) created by Facebook that creates a basic structure for the React app and takes care of ES7+ translation though Babel and Webpack. You don’t need to focus on configuration; instead you can focus on writing React code.
+
+you can also check its github repo from here to look at its [documentation](https://www.npmjs.com/package/create-react-app).
