@@ -164,3 +164,8 @@ _______________________
 **Deep-Dive into Components**
 
 We will learn about Props and State, which help manage the flow of data or state. The Props and State objects have one important difference. Inside a class component, the State object can be changed, whereas the Props object cannot. 
+
+_______________________
+**Properties**
+
+Props is simply shorthand for properties. Props are how components talk to each other and the data flow is immutable. Props are passed down the component tree from parent to children and vice versa. One key point to remember is that props cannot be mutated when referenced from a parent component.
