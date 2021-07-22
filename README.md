@@ -126,3 +126,5 @@ Traverse into the directory using your terminal or command prompt to play around
     cd hello-world
 
     yarn start
+
+It will automatically open http://localhost:3000/ in your default web browser and you can see the first page of our app.
