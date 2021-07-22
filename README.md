@@ -131,3 +131,10 @@ It will automatically open http://localhost:3000/ in your default web browser an
 
 _______________________
 **Introduction to Components**
+
+Components are the smallest units in React application development; they are indeed the most fundamental part of React. 
+React is a library for building UIs and components are the key for creating any UI in React.
+
+You might think of it as widgets that you can plug in anywhere.
+
+These components define how DOM elements are created and how users can interact with them. The whole concept of components is that they are totally encapsulated, making them easy to test and reuse.
