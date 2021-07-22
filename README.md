@@ -87,3 +87,7 @@ React follows one-way data flow to keep things simple.
 _Figure 1-5. React Native’s one-way data flow_
 
 **It is based on the concept of separation of concerns (SoC).** This is a design principle in computer science in which an application or program is divided into distinct sections, each addressing a single or specific concern. The value of this design principle is that it simplifies development to create a maintainable and scalable application. **This leads to modularized code where an individual section can be reused, developed, and modified independently. This makes so much sense and is indeed an example of intelligent thinking.**
+
+_______________________
+**Installation and Setup**
+
