@@ -173,3 +173,7 @@ Props is simply shorthand for properties. Props are how components talk to each 
 ![react-code](https://user-images.githubusercontent.com/20091777/126713678-ae3444e0-59fc-4e9c-879f-5b23824b74d8.png)
 
 Here we are initializing the Message component with a prop named text.
+
+![react-code](https://user-images.githubusercontent.com/20091777/126713787-234c6b39-fc0c-4ce4-a95c-892c6e64f400.png)
+
+
