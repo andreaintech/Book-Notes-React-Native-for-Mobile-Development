@@ -155,5 +155,3 @@ and components from JavaScript itself. React JSX solves these problems with its 
 
 Going back to the preceding code snippet, App is a JavaScript class that is inherited from the React Component class API. Components can be created in two ways: one 
 using class and the other using function. **Components created using function are also called stateless components.**
-
-![react-code](https://user-images.githubusercontent.com/20091777/126712166-1bf42750-b213-484f-9273-e2c538ab0762.png)
