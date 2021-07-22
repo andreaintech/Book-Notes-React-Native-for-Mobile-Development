@@ -159,3 +159,6 @@ using class and the other using function. **Components created using function ar
 ![react-code](https://user-images.githubusercontent.com/20091777/126712907-4a360e15-0b41-454a-a734-86a1602dcb77.png)
 
 This is the preferred way of creating a component if your state is not changing. It eliminates the class-related extra code like extends constructors and makes the code more testable.
+
+_______________________
+**Deep-Dive into Components**
