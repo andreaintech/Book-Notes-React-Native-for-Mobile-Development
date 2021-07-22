@@ -188,3 +188,13 @@ State, on the other hand, is maintained and updated by the component. State is u
 This new function, handleChange, takes an event called (e) and updates the value text state.
 The input box has an onChange event that calls your custom method handleChange whenever the state gets updated. As you type in the text box, your printed message gets 
 updated instantaneously.
+
+_______________________
+**Summary**
+
+We introduced the React library and the reasons behind its invention. 
+Then you learned how to install and set up React. 
+You studied the fundamentals of this technology, such as VDOM, one-way data flow, and JSX. 
+You also got an introduction to components, and took a closer look at components, understanding how to use states and props with components.
+
+Now that you are equipped to code and work in the React ecosystem, the your journey begins in the next chapter as we start working with React Native.
