@@ -96,4 +96,9 @@ We can include React in existing projects using npm or yarn and start using it. 
 
 **create-react-app** is an out-of-the-box command-line interface (CLI) created by Facebook that creates a basic structure for the React app and takes care of ES7+ translation though Babel and Webpack. You don’t need to focus on configuration; instead you can focus on writing React code.
 
-you can also check its github repo from here to look at its [documentation](https://www.npmjs.com/package/create-react-app).
+You can also check its github repo from here to look at its [documentation](https://www.npmjs.com/package/create-react-app).
+
+We simply set it up for our development environment with the following command to install create-react-app:
+npm install -g create-react-app
+
+_This command installs create-react-app globally._
