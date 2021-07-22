@@ -103,3 +103,7 @@ We simply set it up for our development environment with the following command t
     npm install -g create-react-app
 
 _This command installs create-react-app globally._
+
+Now that we have installed create-react-app globally, navigate to the directory where you want to create a project and run the following command:
+
+        create-react-app <application_name>
