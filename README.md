@@ -162,3 +162,5 @@ This is the preferred way of creating a component if your state is not changing.
 
 _______________________
 **Deep-Dive into Components**
+
+We will learn about Props and State, which help manage the flow of data or state. The Props and State objects have one important difference. Inside a class component, the State object can be changed, whereas the Props object cannot. 
