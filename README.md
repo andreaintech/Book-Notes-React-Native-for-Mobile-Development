@@ -9,7 +9,7 @@ Authors:
 # Chapter #1 - Learning the Basics: a Whistle-stop tour of React :books:
     
     The journey of a thousand miles begins with one step.
-                                                                                                                                —Lao Tzu
+                                                                                                            —Lao Tzu
                                                                 
 **According to the official documentation, React is a JavaScript (JS) library (not framework) for creating user interfaces (UIs).** 
 
