@@ -176,4 +176,4 @@ Here we are initializing the Message component with a prop named text.
 
 ![react-code](https://user-images.githubusercontent.com/20091777/126713787-234c6b39-fc0c-4ce4-a95c-892c6e64f400.png)
 
-
+**State**
