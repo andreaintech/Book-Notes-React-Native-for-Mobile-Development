@@ -114,3 +114,11 @@ Click [here](https://chrome.google.com/webstore/detail/react-developer-tools/fmk
 
 _______________________
 **Create a Hello World Application**
+
+Now let’s create a Hello World project. This command will install the essential packages and set up our React project.
+
+    create-react-app hello-world
+
+Running that command installs the dependencies needed to build your project, and it generates the initial project structure. Create React App installs the latest version of React and React-DOM, as well as the latest version of react-scripts, a development dependency that manages all other development dependencies that include starting, testing, and building your app. Create React App uses Webpack and Babel under the hood, but it generates only the files you need to work on your React project.
+
+Traverse into the directory using your terminal or command prompt to play around with this application using the following commands:
