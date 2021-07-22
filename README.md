@@ -7,7 +7,10 @@ Authors:
 - [Abhishek Nalwaya](http://nalwaya.com/)
 
 # Chapter #1 - Learning the Basics: a Whistle-stop tour of React :books:
-
+    
+    The journey of a thousand miles begins with one step.
+                                                                —Lao Tzu
+                                                                
 **According to the official documentation, React is a JavaScript (JS) library (not framework) for creating user interfaces (UIs).** 
 
 It was built in a combined effort by teams from Facebook and Instagram. React was first introduced to the world in 2013, and has taken it by storm, with community-wide acceptance and the benefit of being the technology at the heart of Facebook. 
