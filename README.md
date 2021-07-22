@@ -141,3 +141,5 @@ These components define how DOM elements are created and how users can interact 
 
 ![react-code](https://user-images.githubusercontent.com/20091777/126711463-3e1f60a4-20b9-411f-8254-a7424dad11d7.png)
 
+This is the main App component. As you can see, it’s just a JavaScript file that contains some HTML code. If you have been building software for some time, you know 
+it is a best practice to keep your HTML and JavaScript code separate. Looking at this example, it goes against this fundamental best practice.
