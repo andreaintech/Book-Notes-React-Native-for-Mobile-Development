@@ -100,6 +100,6 @@ You can also check its github repo from here to look at its [documentation](http
 
 We simply set it up for our development environment with the following command to install create-react-app:
 
-**npm install -g create-react-app**
+    **npm install -g create-react-app**
 
 _This command installs create-react-app globally._
