@@ -111,3 +111,6 @@ Now that we have installed create-react-app globally, navigate to the directory 
 We are all set to start working with React, but before we create our first app we recommend that you install React Developer Tools, a very useful Chrome extension that allows you to inspect the React component hierarchy in the Chrome browser. This tool can help boost your productivity. 
 
 Click [here](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) to install React Developer Tools.
+
+_______________________
+**Create a Hello World Application**
