@@ -185,3 +185,6 @@ State, on the other hand, is maintained and updated by the component. State is u
 
 ![react-code](https://user-images.githubusercontent.com/20091777/126715918-85b600f5-e358-4d4b-bb48-aee029cd5231.png)
 
+This new function, handleChange, takes an event called (e) and updates the value text state.
+The input box has an onChange event that calls your custom method handleChange whenever the state gets updated. As you type in the text box, your printed message gets 
+updated instantaneously.
