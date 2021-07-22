@@ -145,3 +145,5 @@ This is the main App component. As you can see, it’s just a JavaScript file th
 it is a best practice to keep your HTML and JavaScript code separate. Looking at this example, it goes against this fundamental best practice.
 
 The reason this best practice exists is to decrease coupling and increase cohesion, which means we write the UI in HTML and logic in JavaScript. The challenge with this approach is that we can only attach behavior to HTML through HTML elements (like ID, class, etc.). 
+
+**A library like jQuery is a good example of this. As your files grow, it becomes difficult to manage and test your code. React components solve this problem very well.**
