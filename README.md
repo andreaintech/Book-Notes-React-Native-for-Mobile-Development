@@ -201,3 +201,5 @@ Now that you are equipped to code and work in the React ecosystem, the your jour
 
 
 # Chapter #2 - The Simplest Program: Hello World with React Native :books:
+
+    ###### El encabezado más pequeño
