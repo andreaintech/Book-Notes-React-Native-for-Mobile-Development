@@ -128,3 +128,6 @@ Traverse into the directory using your terminal or command prompt to play around
     yarn start
 
 It will automatically open http://localhost:3000/ in your default web browser and you can see the first page of our app.
+
+_______________________
+**Introduction to Components**
