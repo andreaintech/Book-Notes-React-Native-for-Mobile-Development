@@ -169,3 +169,7 @@ _______________________
 **Properties**
 
 Props is simply shorthand for properties. Props are how components talk to each other and the data flow is immutable. Props are passed down the component tree from parent to children and vice versa. One key point to remember is that props cannot be mutated when referenced from a parent component.
+
+![react-code](https://user-images.githubusercontent.com/20091777/126713678-ae3444e0-59fc-4e9c-879f-5b23824b74d8.png)
+
+Here we are initializing the Message component with a prop named text.
