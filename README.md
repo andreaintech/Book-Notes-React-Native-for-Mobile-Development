@@ -138,3 +138,6 @@ React is a library for building UIs and components are the key for creating any 
 You might think of it as widgets that you can plug in anywhere.
 
 These components define how DOM elements are created and how users can interact with them. The whole concept of components is that they are totally encapsulated, making them easy to test and reuse.
+
+![react-code](https://user-images.githubusercontent.com/20091777/126711463-3e1f60a4-20b9-411f-8254-a7424dad11d7.png)
+
