@@ -177,3 +177,8 @@ Here we are initializing the Message component with a prop named text.
 ![react-code](https://user-images.githubusercontent.com/20091777/126713787-234c6b39-fc0c-4ce4-a95c-892c6e64f400.png)
 
 **State**
+
+In the last section, you learned about properties, which are static values that are passed into your component. 
+State, on the other hand, is maintained and updated by the component. State is used so that a component can keep track of information in between any renders that it does. When you setState it updates the state object and then rerenders the component. 
+
+**We can think of props variables used for component initialization, whereas state is like internal data that affects the rendering of components and is considered private data.**
