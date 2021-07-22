@@ -146,4 +146,6 @@ it is a best practice to keep your HTML and JavaScript code separate. Looking at
 
 The reason this best practice exists is to decrease coupling and increase cohesion, which means we write the UI in HTML and logic in JavaScript. The challenge with this approach is that we can only attach behavior to HTML through HTML elements (like ID, class, etc.). 
 
-**A library like jQuery is a good example of this. As your files grow, it becomes difficult to manage and test your code. React components solve this problem very well.**
+A library like jQuery is a good example of this. As your files grow, it becomes difficult to manage and test your code. 
+
+**React components solve this problem very well. It lets you create JavaScript objects using HTML syntax. Components serve two purposes: templates and display logic. Therefore, markup and code are tied together intimately. **
