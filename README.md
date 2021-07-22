@@ -106,4 +106,4 @@ _This command installs create-react-app globally._
 
 Now that we have installed create-react-app globally, navigate to the directory where you want to create a project and run the following command:
 
-        create-react-app <application_name>
+    create-react-app <application_name>
